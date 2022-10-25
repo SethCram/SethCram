@@ -1,7 +1,3 @@
-# 💫 About Me:
-I'm a Software Engineer with a passion for web development. 
-
-
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23563D7C.svg?logo=Portfolio&logoColor=white)](https://sethcram.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SethCram) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13046931) 
 
